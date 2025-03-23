@@ -1,7 +1,7 @@
 import csv
 
 # Specify the input and output file names
-input_file = 'input.csv'
+input_file = 'Example/input.csv'
 output_file = 'output.csv'
 
 # Read the CSV file
